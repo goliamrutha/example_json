@@ -1,0 +1,32 @@
+{
+  "creators_profile": {
+    "name": "John Doe",
+    "designation": "Video Editor",
+    "profile_image": "https://raw.githubusercontent.com/goliamrutha/example_json/main/images/6.png",
+    "rating": 4.9,
+    "key_skills": ["Video Editing", "Video Shoot", "Photoshoot"],
+    "equipment": "Samsung s23 Ultra"
+  },
+  "sample_works": [
+    {
+      "title": "Indian Classical Dance",
+      "date": "12 Sept 2024",
+      "image_url": "https://raw.githubusercontent.com/goliamrutha/example_json/main/images/1.png"
+    },
+    {
+      "title": "Wedding Photography",
+      "date": "5 Oct 2024",
+      "image_url": "https://raw.githubusercontent.com/goliamrutha/example_json/main/images/2.png"
+    },
+    {
+      "title": "Indian Classical Dance",
+      "date": "20 Oct 2024",
+      "image_url": "https://raw.githubusercontent.com/goliamrutha/example_json/main/images/3.png"
+    },
+    {
+      "title": "Nature Videography",
+      "date": "25 Oct 2024",
+      "image_url": "https://raw.githubusercontent.com/goliamrutha/example_json/main/images/4.png"
+    }
+  ]
+}
