@@ -1,0 +1,46 @@
+{
+  "creators": [
+    {
+      "name": "John Doe",
+      "designation": "Video Editor",
+      "rating": "4.9",
+      "profile_image": "https://raw.githubusercontent.com/goliamrutha/example_json/main/images/6.png",
+      "cover_image": "https://raw.githubusercontent.com/goliamrutha/example_json/main/images/6.png"
+    },
+    {
+      "name": "Jane Smith",
+      "designation": "Photographer",
+      "rating": "4.8",
+      "profile_image": "https://raw.githubusercontent.com/goliamrutha/example_json/main/images/6.png",
+      "cover_image": "https://raw.githubusercontent.com/goliamrutha/example_json/main/images/6.png"
+    },
+    {
+      "name": "John Doe",
+      "designation": "Video Editor",
+      "rating": "4.9",
+      "profile_image": "https://raw.githubusercontent.com/goliamrutha/example_json/main/images/3.png",
+      "cover_image": "https://raw.githubusercontent.com/goliamrutha/example_json/main/images/3.png"
+    },
+    {
+      "name": "Bob",
+      "designation": "Photographer",
+      "rating": "4.8",
+      "profile_image": "https://raw.githubusercontent.com/goliamrutha/example_json/main/images/1.png",
+      "cover_image": "https://raw.githubusercontent.com/goliamrutha/example_json/main/images/1.png"
+    },
+    {
+      "name": "John Smith",
+      "designation": "Video Editor",
+      "rating": "4.8",
+      "profile_image": "https://raw.githubusercontent.com/goliamrutha/example_json/main/images/1.png",
+      "cover_image": "https://raw.githubusercontent.com/goliamrutha/example_json/main/images/1.png"
+    },
+    {
+      "name": "John Doe",
+      "designation": "Photographer",
+      "rating": "4.9",
+      "profile_image": "https://raw.githubusercontent.com/goliamrutha/example_json/main/images/3.png",
+      "cover_image": "https://raw.githubusercontent.com/goliamrutha/example_json/main/images/3.png"
+    }
+  ]
+}
