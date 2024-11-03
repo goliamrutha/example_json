@@ -1,0 +1,11 @@
+{
+  "book_now": {
+    "name": "John Doe",
+    "profession": "Video Editor",
+    "profile_image": "https://github.com/goliamrutha/example_json/blob/main/images/7.png",  
+    "pricing_details": {
+      "total_estimated_cost": 5000,
+      "minimum_advance_payment": 1000
+    }
+  }
+}
