@@ -1,0 +1,22 @@
+{
+  "book": {
+    "profile_image": "https://raw.githubusercontent.com/goliamrutha/example_json/main/images/7.png",
+    "name": "John Doe",
+    "profession": "Video Editor",
+    "form_details": {
+      "project_name": "Enter the Project Name",
+      "preferred_date": "12-02-2024",
+      "preferred_time": "09:30 AM",
+      "duration": "2 Days",
+      "service_type": "Photography",
+      "project_description": "Project Description",
+      "special_request": "Special Request Note",
+      "contact_person_name": "Contact Person Name",
+      "contact_person_email": "Contact Person Email Id",
+      "contact_person_phone": "Contact Person Phone Number",
+      "address": "Write the complete address",
+      "location": "Add Google Map location link"
+      
+    }
+  }
+}
